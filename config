@@ -5,9 +5,10 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
-[remote "origin"]
-	url = https://github.com/VonneCoding/repositorio-DY-web.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
 [user]
-	email = imsunghello@gmail.com
 	name = VonneCoding
+	mail = imsunghello@gmail.com
+	email = imsunghello@gmail.com
+[remote "origin"]
+	url = https://github.com/VonneCoding/Curriculum-web-Vonne
+	fetch = +refs/heads/*:refs/remotes/origin/*
